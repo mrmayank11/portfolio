@@ -44,7 +44,7 @@ const Hero = () => {
 
         <div className="">
 
-          <img className="animate-waving-hand h-600  m-auto  z-10" src="./src/assets/imageedit_1_9554119963.png" alt="no img" srcset="" />
+          <img className="animate-waving-hand h-600  m-auto  z-10" src=".project/src/assets/imageedit_1_9554119963.png" alt="no img" srcset="" />
 
         </div>
 
